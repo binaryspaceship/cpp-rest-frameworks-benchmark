@@ -34,7 +34,7 @@ Benchmark was done by running `ab -n 1000 -c 1 -k <url>` (see [Apache Benchmark]
 
 ## cpprestsdk
 
-![cpprestsdk benchmark results](https://github.com/metamaker/cpp-rest-frameworks-benchmark/tree/master/results/benchmark-cpprest.png)
+![cpprestsdk benchmark results](https://raw.githubusercontent.com/metamaker/cpp-rest-frameworks-benchmark/master/results/benchmark-cpprest.png)
 
 (+) Code documentation of cpprestsdk is one of the best amongst all projects that I have ever seen during my 8 years carreer as software developer. Examples are well structured and easy to reproduce.
 
@@ -48,7 +48,7 @@ Benchmark was done by running `ab -n 1000 -c 1 -k <url>` (see [Apache Benchmark]
 
 ## restbed
 
-![restbed benchmark results](https://github.com/metamaker/cpp-rest-frameworks-benchmark/tree/master/results/benchmark-restbed.png)
+![restbed benchmark results](https://raw.githubusercontent.com/metamaker/cpp-rest-frameworks-benchmark/master/results/benchmark-restbed.png)
 
 (+) Good documentation on design of framework.
 
@@ -62,7 +62,7 @@ Benchmark was done by running `ab -n 1000 -c 1 -k <url>` (see [Apache Benchmark]
 
 ## pistache
 
-![pistache benchmark results](https://github.com/metamaker/cpp-rest-frameworks-benchmark/tree/master/results/benchmark-pistache.png)
+![pistache benchmark results](https://raw.githubusercontent.com/metamaker/cpp-rest-frameworks-benchmark/master/results/benchmark-pistache.png)
 
 (+) Fastest performance.
 
@@ -79,3 +79,7 @@ Benchmark was done by running `ab -n 1000 -c 1 -k <url>` (see [Apache Benchmark]
 (-) No WebSockets support yet.
 
 (-) Unit tests are very bad.
+
+## PHP native implementation 
+
+![PHP native implementation benchmark results](https://raw.githubusercontent.com/metamaker/cpp-rest-frameworks-benchmark/master/results/benchmark-php.png)
