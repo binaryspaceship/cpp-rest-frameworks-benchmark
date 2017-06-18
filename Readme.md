@@ -76,7 +76,7 @@ Benchmark was done by running `ab -n 1000 -c 1 -k <url>` (see [Apache Benchmark]
 
 (-) Installation instructions are not present in repository and not obvious to find (you should look on "Getting started" page, not on "User's Guide" FYI).
 
-(-) Unit tests are very bad.
+(-) Unit tests are ill-formed.
 
 ## PHP native implementation 
 
