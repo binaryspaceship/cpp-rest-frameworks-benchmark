@@ -1,4 +1,4 @@
-This is performance benchmark of popular C/C++ REST frameworks.
+This is performance benchmark of popular C++ REST frameworks.
 
 # What this repository contains
 
@@ -19,9 +19,9 @@ Scenario of each sample is the same:
 
 There are several implementations of HTTP server:
 
-- C/C++ : [cpprestsdk](https://github.com/Microsoft/cpprestsdk)
-- C/C++ : [restbed](https://github.com/corvusoft/restbed)
-- C/C++ : [pistache](https://github.com/oktal/pistache)
+- C++ : [cpprestsdk](https://github.com/Microsoft/cpprestsdk)
+- C++ : [restbed](https://github.com/corvusoft/restbed)
+- C++ : [pistache](https://github.com/oktal/pistache)
 - PHP : Native implementation
 
 # Benchmark
