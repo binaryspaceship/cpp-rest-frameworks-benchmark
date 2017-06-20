@@ -34,7 +34,13 @@ Benchmark was done by running `ab -n 1000 -c 1 -k <url>` (see [Apache Benchmark]
 
 ## cpprestsdk
 
-![cpprestsdk benchmark results](https://raw.githubusercontent.com/metamaker/cpp-rest-frameworks-benchmark/master/results/benchmark-cpprest.png)
+#### Benchmark results for default JSON implementation on Linux
+
+![cpprestsdk benchmark results](https://raw.githubusercontent.com/metamaker/cpp-rest-frameworks-benchmark/master/results/benchmark-cpprestsdk-default_json_impl.png)
+
+#### Benchmark results with RapidJSON on Linux
+
+![cpprestsdk benchmark results](https://raw.githubusercontent.com/metamaker/cpp-rest-frameworks-benchmark/master/results/benchmark-cpprestsdk-rapidjson.png)
 
 (+) Code documentation of cpprestsdk is one of the best amongst all projects that I have ever seen during my 8 years carreer as software developer. Examples are well structured and easy to reproduce.
 

@@ -93,7 +93,11 @@ cat << EOF
 |-----------------------------------|
 EOF
 
-cd /vagrant/cpp/cpprest
+cd /vagrant/cpp/cpprestsdk-default_json_impl
+cmake -DCMAKE_BUILD_TYPE=Release .
+make
+
+cd /vagrant/cpp/cpprestsdk-rapidjson
 cmake -DCMAKE_BUILD_TYPE=Release .
 make
 
